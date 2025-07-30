@@ -1,0 +1,31 @@
+{
+  "logoText": "Qstly",
+  "shop": "Shop",
+  "wishlist": "Wishlist",
+  "cart": "Cart",
+  "languageToggle": "العربية",
+  "login": "Login",
+  "signup": "Sign Up",
+  "logout": "Logout",
+  "profile": "Profile",
+  
+  "welcome": "Welcome to Qstly",
+  "shop_subtitle": "Shop top-quality electronics with fast delivery and great prices.",
+  "browse_products": "Browse Products",
+  "featured_categories": "Categories",
+  "categories": {
+    "laptops": "Laptops",
+    "smartphones": "Smartphones",
+    "tvs": "TVs",
+    "accessories": "Accessories"
+  },
+  "why_title": "Why Shop with <1>Qstly</1>?",
+  "why": {
+    "installment": "Best Installment",
+    "installment_text": "Installment with comfort and safety.",
+    "secure": "🔒 Secure Checkout",
+    "secure_text": "Protected payments with full data encryption.",
+    "support": "💬 24/7 Support",
+    "support_text": "We're here whenever you need help or advice."
+  }
+}
